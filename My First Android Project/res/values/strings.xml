@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Termin Reminder</string> 
+    <string name="errinnerungstext">Errinnerung</string> 
+    <string name="straße">straße</string> 
+    <string name="hausnummer">Hausnummer</string> 
+    <string name="ort">Ort</string> 
+    <string name="plz">Plz</string>
+    <string name="land">Land</string>
+    <string name="lattidue">Latitude</string>
+    <string name="longitude">Longitude</string>
+
+</resources>
